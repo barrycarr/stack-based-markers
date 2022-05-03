@@ -23,6 +23,16 @@
         "command": "stack-based-markers.popMarker",
         "title": "Pop Marker"
       }
+    ],
+    "keybindings": [
+      {
+        "command": "stack-based-markers.pushMarker",
+        "key": "alt+insert"
+      },
+      {
+        "command": "stack-based-markers.popMarker",
+        "key": "alt+delete"
+      }
     ]
   },
   "scripts": {
